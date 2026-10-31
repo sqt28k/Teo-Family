@@ -1,0 +1,28 @@
+{
+  "note": "FICTIONAL demo family. Replace with the real list.",
+  "people": [
+    {"id":"ahhock","name":"Teo Ah Hock","zh":"张亚福","gender":"M","born":1930,"spouse":"siew"},
+    {"id":"siew","name":"Tan Siew Eng","gender":"F","born":1933,"spouse":"ahhock"},
+    {"id":"kimseng","name":"Teo Kim Seng","gender":"M","born":1952,"father":"ahhock","mother":"siew","spouse":"beehoon"},
+    {"id":"beehoon","name":"Lim Bee Hoon","gender":"F","born":1954,"spouse":"kimseng"},
+    {"id":"kimleng","name":"Teo Kim Leng","gender":"F","born":1955,"father":"ahhock","mother":"siew","spouse":"cheekeong"},
+    {"id":"cheekeong","name":"Ng Chee Keong","gender":"M","born":1953,"spouse":"kimleng"},
+    {"id":"kimhuat","name":"Teo Kim Huat","gender":"M","born":1958,"father":"ahhock","mother":"siew","spouse":"meilan"},
+    {"id":"meilan","name":"Goh Mei Lan","gender":"F","born":1960,"spouse":"kimhuat"},
+    {"id":"kimchoo","name":"Teo Kim Choo","gender":"F","born":1961,"father":"ahhock","mother":"siew"},
+    {"id":"weiming","name":"Teo Wei Ming","gender":"M","born":1978,"father":"kimseng","mother":"beehoon","spouse":"sarah"},
+    {"id":"sarah","name":"Sarah Koh","gender":"F","born":1980,"spouse":"weiming"},
+    {"id":"yuxuan","name":"Teo Yu Xuan","gender":"M","born":2015,"father":"weiming","mother":"sarah"},
+    {"id":"huimin","name":"Teo Hui Min","gender":"F","born":1980,"father":"kimseng","mother":"beehoon"},
+    {"id":"jiahui","name":"Ng Jia Hui","gender":"F","born":1984,"father":"cheekeong","mother":"kimleng"},
+    {"id":"jiawei","name":"Ng Jia Wei","gender":"M","born":1988,"father":"cheekeong","mother":"kimleng"},
+    {"id":"junjie","name":"Teo Jun Jie","gender":"M","born":1982,"father":"kimhuat","mother":"meilan","spouse":"rachel"},
+    {"id":"rachel","name":"Rachel Chua","gender":"F","born":1985,"father":"boonkeng","mother":"ailing","spouse":"junjie"},
+    {"id":"meixin","name":"Teo Mei Xin","gender":"F","born":1986,"father":"kimhuat","mother":"meilan"},
+    {"id":"kaien","name":"Teo Kai En","gender":"F","born":2021,"father":"junjie","mother":"rachel"},
+    {"id":"kaile","name":"Teo Kai Le","gender":"M","born":2024,"father":"junjie","mother":"rachel"},
+    {"id":"boonkeng","name":"Chua Boon Keng","gender":"M","born":1955,"spouse":"ailing"},
+    {"id":"ailing","name":"Low Ai Ling","gender":"F","born":1958,"spouse":"boonkeng"},
+    {"id":"shimin","name":"Chua Shi Min","gender":"F","born":1988,"father":"boonkeng","mother":"ailing"}
+  ]
+}
